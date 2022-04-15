@@ -112,8 +112,8 @@ body {
   text-justify: auto ;
   width: 100%;
   position: relative;
-  left: -60px;
-  top: -35px;
+  left: -35px;
+  top: -40px;
   text-align: justify;
 
 }
@@ -136,7 +136,7 @@ body {
     font-weight: 600;
      font-size: 72px;
      width: 24%;
-    left: 68vw;
+    left: 70vw;
     color: white;
     text-align: center;
 }
